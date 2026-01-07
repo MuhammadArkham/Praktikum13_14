@@ -54,19 +54,19 @@ User mengetik kata kunci -> Klik Cari -> URL berubah membawa parameter `?q=kata_
 
 ### Tampilan Hasil
 
-![Screenshot hasil](output.png)
+![Screenshot hasil](https://github.com/MuhammadArkham/Praktikum13_14/blob/main/FOTO/Screenshot%202026-01-07%20093340.png?raw=true)
 
 ### Tampilan Fitur Pagination
 
-![Screenshot](pagination2.png)
+![Screenshot]([pagination2.png](https://github.com/MuhammadArkham/Praktikum13_14/blob/main/FOTO/Screenshot%202026-01-07%20093340.png?raw=true))
 
-![Screenshot](pagination1.png)
+![Screenshot](https://github.com/MuhammadArkham/Praktikum13_14/blob/main/FOTO/Screenshot%202026-01-07%20093140.png?raw=true)
 
 ### Tampilan Fitur Pencarian Data
 
 ![Screenshot](pencarian_data1.png)
 
-![Screenshot](pencarian_data2.png)
+
 
 
 
